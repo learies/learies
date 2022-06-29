@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Alexey and am a Python developer.
+
+![](https://img.shields.io/badge/PYTHON-blue)
+![](https://img.shields.io/badge/Django_REST_framework-green)
+![](https://img.shields.io/badge/FastAPI-green)
+![](https://img.shields.io/badge/SQLAlchemy-green)
+![](https://img.shields.io/badge/Docker-green)
+       
+![](https://komarev.com/ghpvc/?username=Xewus)
+
 <!--
 **learies/learies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
